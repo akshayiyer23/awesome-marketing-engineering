@@ -134,8 +134,4 @@ Articles, playbooks, and guides for learning Marketing Engineering.
 
 ## Contributing
 
-Contributions welcome! Please open an issue or pull request for any Marketing Engineering resource you love.
-
-Please only suggest resources that are genuinely awesome. This is meant to be a highly curated list, not an exhaustive directory.
-
-Keep descriptions short and plain. Say what the resource is useful for, not just what category it belongs to.
+Contributions welcome! Thanks for reading!
