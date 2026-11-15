@@ -47,6 +47,7 @@ Tools for pulling public web and social data into your marketing systems, such a
 - [Firecrawl](https://www.firecrawl.dev) - An API for turning websites into clean Markdown or structured data for AI agents. [![GitHub stars](https://img.shields.io/github/stars/mendableai/firecrawl?style=social)](https://github.com/mendableai/firecrawl)
 - [Exa](https://exa.ai) - A web search API built for AI applications, useful for research agents and finding similar pages.
 - [Crawl4AI](https://github.com/unclecode/crawl4ai) - An open-source crawler for turning websites into AI-ready data. [![GitHub stars](https://img.shields.io/github/stars/unclecode/crawl4ai?style=social)](https://github.com/unclecode/crawl4ai)
+- [Datacircle](https://datacircle.dev) - A site that benchmarks all the GTM APIs and puts the results on its website, for choosing a data API for your marketing systems.
 
 [Contribute to list!](#contributing)
 
